@@ -8,7 +8,7 @@ NewShinken
 
 ./install –p nagios-plugins
 
-procédure d'instalation :
+Procédure d'installation :
 =========================
 
 sudo su
