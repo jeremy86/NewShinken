@@ -1,10 +1,11 @@
 #!/bin/bash
 #set -x
-#Copyright (C) 2009-2012:
+#Copyright (C) 2009-2013:
 #    Gabes Jean, naparuba@gmail.com
 #    Gerhard Lausser, Gerhard.Lausser@consol.de
 #    David GUENAULT, dguenault@monitoring-fr.org
 #    Romain FORLOT, rforlot@yahoo.com
+#    Jeremy86
 #
 #This file is part of Shinken.
 #

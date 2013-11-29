@@ -7,3 +7,16 @@ NewShinken
 =============
 
 ./install –p nagios-plugins
+
+procédure d'instalation :
+=========================
+
+sudo su
+
+cd /usr/local/shinken
+
+rm install
+
+wget https://raw.github.com/jeremy86/NewShinken/master/install
+
+chmod 777 install
